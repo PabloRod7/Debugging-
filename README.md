@@ -1,4 +1,4 @@
-# Debugging. Hacking with Swift
+# Debugging  Hacking with Swift.
 Some debugging tips.
 Everyone hits problems sooner or later, so learning to find and fix them is an important skill.
 
